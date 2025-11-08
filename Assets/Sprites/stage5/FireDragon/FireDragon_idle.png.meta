@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: dcc76ae0c9688eb438436727668d67c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9038865019100109878
+    second: FireDragon_idle_0
+  - first:
+      213: 4049863639936109797
+    second: FireDragon_idle_1
+  - first:
+      213: 12181066467022385
+    second: FireDragon_idle_2
+  - first:
+      213: 5762966785937919527
+    second: FireDragon_idle_3
+  - first:
+      213: -2317010097919218929
+    second: FireDragon_idle_4
+  - first:
+      213: 1597332647139348918
+    second: FireDragon_idle_5
+  - first:
+      213: 4767400726883817690
+    second: FireDragon_idle_6
+  - first:
+      213: -7734941763061885439
+    second: FireDragon_idle_7
+  - first:
+      213: -5834480051410900979
+    second: FireDragon_idle_8
+  - first:
+      213: -5118391061689225966
+    second: FireDragon_idle_9
+  - first:
+      213: -6696656770868817309
+    second: FireDragon_idle_10
+  - first:
+      213: -7453766389207245654
+    second: FireDragon_idle_11
+  - first:
+      213: 9168549712499468969
+    second: FireDragon_idle_12
+  - first:
+      213: 2602043269852432714
+    second: FireDragon_idle_13
+  - first:
+      213: -7016918513582661161
+    second: FireDragon_idle_14
+  - first:
+      213: 476550087893251331
+    second: FireDragon_idle_15
+  - first:
+      213: -3843091912371125767
+    second: FireDragon_idle_16
+  - first:
+      213: -4360629793192593622
+    second: FireDragon_idle_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireDragon_idle_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1994
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c9a2c48df707d70800000000000000
+      internalID: 9038865019100109878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1993
+        width: 142
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec892ff581043830800000000000000
+      internalID: 4049863639936109797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1993
+        width: 147
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13690cb8d964b2000800000000000000
+      internalID: 12181066467022385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1994
+        width: 150
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e443022cb2aff40800000000000000
+      internalID: 5762966785937919527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1995
+        width: 150
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b288c879358dfd0800000000000000
+      internalID: -2317010097919218929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1995
+        width: 152
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b110ec549dda2610800000000000000
+      internalID: 1597332647139348918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1995
+        width: 153
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad859dbc3b5392240800000000000000
+      internalID: 4767400726883817690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1995
+        width: 155
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106dc5ea277f7a490800000000000000
+      internalID: -7734941763061885439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1997
+        width: 156
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08ec8e3e43c70fa0800000000000000
+      internalID: -5834480051410900979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1997
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21daa72a272d7f8b0800000000000000
+      internalID: -5118391061689225966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1997
+        width: 159
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36256a5b522b013a0800000000000000
+      internalID: -6696656770868817309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1889
+        width: 160
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5e84f5f6ee8890800000000000000
+      internalID: -7453766389207245654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1889
+        width: 161
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6a0fe26b3d3f70800000000000000
+      internalID: 9168549712499468969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1887
+        width: 162
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4900c551905c1420800000000000000
+      internalID: 2602043269852432714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1885
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d12b040ac5ee9e90800000000000000
+      internalID: -7016918513582661161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1882
+        width: 148
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305fe82b7cb0d9600800000000000000
+      internalID: 476550087893251331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_16
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1881
+        width: 142
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f141fb64489aaac0800000000000000
+      internalID: -3843091912371125767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDragon_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1879
+        width: 138
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2735c38e4eeb73c0800000000000000
+      internalID: -4360629793192593622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FireDragon_idle_0: 9038865019100109878
+      FireDragon_idle_1: 4049863639936109797
+      FireDragon_idle_10: -6696656770868817309
+      FireDragon_idle_11: -7453766389207245654
+      FireDragon_idle_12: 9168549712499468969
+      FireDragon_idle_13: 2602043269852432714
+      FireDragon_idle_14: -7016918513582661161
+      FireDragon_idle_15: 476550087893251331
+      FireDragon_idle_16: -3843091912371125767
+      FireDragon_idle_17: -4360629793192593622
+      FireDragon_idle_2: 12181066467022385
+      FireDragon_idle_3: 5762966785937919527
+      FireDragon_idle_4: -2317010097919218929
+      FireDragon_idle_5: 1597332647139348918
+      FireDragon_idle_6: 4767400726883817690
+      FireDragon_idle_7: -7734941763061885439
+      FireDragon_idle_8: -5834480051410900979
+      FireDragon_idle_9: -5118391061689225966
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

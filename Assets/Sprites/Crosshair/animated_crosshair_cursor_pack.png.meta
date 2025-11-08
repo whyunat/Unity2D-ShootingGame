@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 2e2de9ef16a74f94baf3ee5eeb4dba63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4623489563578846618
+    second: animated_crosshair_cursor_pack_0
+  - first:
+      213: 4260799777967188887
+    second: animated_crosshair_cursor_pack_1
+  - first:
+      213: 3182084699209331181
+    second: animated_crosshair_cursor_pack_2
+  - first:
+      213: 730019665706055744
+    second: animated_crosshair_cursor_pack_3
+  - first:
+      213: 5486308238280380483
+    second: animated_crosshair_cursor_pack_4
+  - first:
+      213: -1075866593321632051
+    second: animated_crosshair_cursor_pack_5
+  - first:
+      213: -960732009882856700
+    second: animated_crosshair_cursor_pack_6
+  - first:
+      213: -5155467309091016926
+    second: animated_crosshair_cursor_pack_7
+  - first:
+      213: 7573921688784255173
+    second: animated_crosshair_cursor_pack_8
+  - first:
+      213: 202313234427963470
+    second: animated_crosshair_cursor_pack_9
+  - first:
+      213: -2515281051549362606
+    second: animated_crosshair_cursor_pack_10
+  - first:
+      213: -4438547581036727625
+    second: animated_crosshair_cursor_pack_11
+  - first:
+      213: -5636139238939068336
+    second: animated_crosshair_cursor_pack_12
+  - first:
+      213: -7404924992070800260
+    second: animated_crosshair_cursor_pack_13
+  - first:
+      213: -737041113201932438
+    second: animated_crosshair_cursor_pack_14
+  - first:
+      213: -3122171940077996935
+    second: animated_crosshair_cursor_pack_15
+  - first:
+      213: 2416637495102979825
+    second: animated_crosshair_cursor_pack_16
+  - first:
+      213: -6866682679551413572
+    second: animated_crosshair_cursor_pack_17
+  - first:
+      213: 3506863958365670919
+    second: animated_crosshair_cursor_pack_18
+  - first:
+      213: 275090157710629063
+    second: animated_crosshair_cursor_pack_19
+  - first:
+      213: -2357435975851210585
+    second: animated_crosshair_cursor_pack_20
+  - first:
+      213: -7161679689585469611
+    second: animated_crosshair_cursor_pack_21
+  - first:
+      213: -1267805839776444500
+    second: animated_crosshair_cursor_pack_22
+  - first:
+      213: -7320465309450590391
+    second: animated_crosshair_cursor_pack_23
+  - first:
+      213: 4524173822805528850
+    second: animated_crosshair_cursor_pack_24
+  - first:
+      213: -6017556238382889726
+    second: animated_crosshair_cursor_pack_25
+  - first:
+      213: -6773687589697362890
+    second: animated_crosshair_cursor_pack_26
+  - first:
+      213: 1308497788240083291
+    second: animated_crosshair_cursor_pack_27
+  - first:
+      213: -4193812562651643193
+    second: animated_crosshair_cursor_pack_28
+  - first:
+      213: 5910421561287600650
+    second: animated_crosshair_cursor_pack_29
+  - first:
+      213: -433066567566088382
+    second: animated_crosshair_cursor_pack_30
+  - first:
+      213: -7029937997001694267
+    second: animated_crosshair_cursor_pack_31
+  - first:
+      213: 7101333350719006316
+    second: animated_crosshair_cursor_pack_32
+  - first:
+      213: -121559561950994937
+    second: animated_crosshair_cursor_pack_33
+  - first:
+      213: 5110007151023006423
+    second: animated_crosshair_cursor_pack_34
+  - first:
+      213: 2925273310417737913
+    second: animated_crosshair_cursor_pack_35
+  - first:
+      213: 6258475294906006844
+    second: animated_crosshair_cursor_pack_36
+  - first:
+      213: 6160611489273110875
+    second: animated_crosshair_cursor_pack_37
+  - first:
+      213: 3269205178048765073
+    second: animated_crosshair_cursor_pack_38
+  - first:
+      213: -5199187725515294612
+    second: animated_crosshair_cursor_pack_39
+  - first:
+      213: 7854752947767778336
+    second: animated_crosshair_cursor_pack_40
+  - first:
+      213: -8724097235841435530
+    second: animated_crosshair_cursor_pack_41
+  - first:
+      213: -1814319059320085579
+    second: animated_crosshair_cursor_pack_42
+  - first:
+      213: -2027238192710779505
+    second: animated_crosshair_cursor_pack_43
+  - first:
+      213: 8017367562047920351
+    second: animated_crosshair_cursor_pack_44
+  - first:
+      213: -2630980517533774115
+    second: animated_crosshair_cursor_pack_45
+  - first:
+      213: -5172405265131243311
+    second: animated_crosshair_cursor_pack_46
+  - first:
+      213: 4053195059488543394
+    second: animated_crosshair_cursor_pack_47
+  - first:
+      213: -4627929427919657845
+    second: animated_crosshair_cursor_pack_48
+  - first:
+      213: 3906275948874497948
+    second: animated_crosshair_cursor_pack_49
+  - first:
+      213: 2090599586305236323
+    second: animated_crosshair_cursor_pack_50
+  - first:
+      213: -4839122613233455789
+    second: animated_crosshair_cursor_pack_51
+  - first:
+      213: 4688094991785584692
+    second: animated_crosshair_cursor_pack_52
+  - first:
+      213: -1097055578592800652
+    second: animated_crosshair_cursor_pack_53
+  - first:
+      213: -7449743744199214886
+    second: animated_crosshair_cursor_pack_54
+  - first:
+      213: 4337562667136553896
+    second: animated_crosshair_cursor_pack_55
+  - first:
+      213: 8593719446841814445
+    second: animated_crosshair_cursor_pack_56
+  - first:
+      213: -2019636415726990844
+    second: animated_crosshair_cursor_pack_57
+  - first:
+      213: 7548132878789234308
+    second: animated_crosshair_cursor_pack_58
+  - first:
+      213: 7896617943026737547
+    second: animated_crosshair_cursor_pack_59
+  - first:
+      213: 2067455490728175333
+    second: animated_crosshair_cursor_pack_60
+  - first:
+      213: 4098256936378489518
+    second: animated_crosshair_cursor_pack_61
+  - first:
+      213: 3145160468649904271
+    second: animated_crosshair_cursor_pack_62
+  - first:
+      213: -6391851745672180602
+    second: animated_crosshair_cursor_pack_63
+  - first:
+      213: -311045763092184880
+    second: animated_crosshair_cursor_pack_64
+  - first:
+      213: -592435210728212794
+    second: animated_crosshair_cursor_pack_65
+  - first:
+      213: -6017885481950984468
+    second: animated_crosshair_cursor_pack_66
+  - first:
+      213: -3844518158863030871
+    second: animated_crosshair_cursor_pack_67
+  - first:
+      213: -1999517118465456716
+    second: animated_crosshair_cursor_pack_68
+  - first:
+      213: 8687311682192093861
+    second: animated_crosshair_cursor_pack_69
+  - first:
+      213: 1130185287112107943
+    second: animated_crosshair_cursor_pack_70
+  - first:
+      213: -355580617715691748
+    second: animated_crosshair_cursor_pack_71
+  - first:
+      213: -3794664929400927074
+    second: animated_crosshair_cursor_pack_72
+  - first:
+      213: 5831619066131490352
+    second: animated_crosshair_cursor_pack_73
+  - first:
+      213: 1589766660862306824
+    second: animated_crosshair_cursor_pack_74
+  - first:
+      213: 465908076630757484
+    second: animated_crosshair_cursor_pack_75
+  - first:
+      213: -5355865884901630906
+    second: animated_crosshair_cursor_pack_76
+  - first:
+      213: 2129033067396275224
+    second: animated_crosshair_cursor_pack_77
+  - first:
+      213: 461831568046323796
+    second: animated_crosshair_cursor_pack_78
+  - first:
+      213: -4918018407030445295
+    second: animated_crosshair_cursor_pack_79
+  - first:
+      213: 2056023960263011782
+    second: animated_crosshair_cursor_pack_80
+  - first:
+      213: -3438409722548378646
+    second: animated_crosshair_cursor_pack_81
+  - first:
+      213: -286081452277227056
+    second: animated_crosshair_cursor_pack_82
+  - first:
+      213: 5593516653490908470
+    second: animated_crosshair_cursor_pack_83
+  - first:
+      213: -5295050815460614973
+    second: animated_crosshair_cursor_pack_84
+  - first:
+      213: 9052346173290372620
+    second: animated_crosshair_cursor_pack_85
+  - first:
+      213: -6068328629760134499
+    second: animated_crosshair_cursor_pack_86
+  - first:
+      213: -2996132147959003596
+    second: animated_crosshair_cursor_pack_87
+  - first:
+      213: 2220477713453706514
+    second: animated_crosshair_cursor_pack_88
+  - first:
+      213: -5040455585747798538
+    second: animated_crosshair_cursor_pack_89
+  - first:
+      213: 2799710308742792004
+    second: animated_crosshair_cursor_pack_90
+  - first:
+      213: 4700561685941885571
+    second: animated_crosshair_cursor_pack_91
+  - first:
+      213: -8927481794166054773
+    second: animated_crosshair_cursor_pack_92
+  - first:
+      213: -8226940044193574737
+    second: animated_crosshair_cursor_pack_93
+  - first:
+      213: -7217187356676097756
+    second: animated_crosshair_cursor_pack_94
+  - first:
+      213: -1360694645808771860
+    second: animated_crosshair_cursor_pack_95
+  - first:
+      213: 4879187387211111108
+    second: animated_crosshair_cursor_pack_96
+  - first:
+      213: 6618578801426194315
+    second: animated_crosshair_cursor_pack_97
+  - first:
+      213: -7803989706797322060
+    second: animated_crosshair_cursor_pack_98
+  - first:
+      213: 1265328184646572585
+    second: animated_crosshair_cursor_pack_99
+  - first:
+      213: -78200946453855340
+    second: animated_crosshair_cursor_pack_100
+  - first:
+      213: 3856610522487904685
+    second: animated_crosshair_cursor_pack_101
+  - first:
+      213: -7160769289951456056
+    second: animated_crosshair_cursor_pack_102
+  - first:
+      213: -2299881571237648447
+    second: animated_crosshair_cursor_pack_103
+  - first:
+      213: 1270667624365941629
+    second: animated_crosshair_cursor_pack_104
+  - first:
+      213: -3925681917941950132
+    second: animated_crosshair_cursor_pack_105
+  - first:
+      213: 1848405733662419584
+    second: animated_crosshair_cursor_pack_106
+  - first:
+      213: 5788074638689416243
+    second: animated_crosshair_cursor_pack_107
+  - first:
+      213: 8514216778739682122
+    second: animated_crosshair_cursor_pack_108
+  - first:
+      213: 1957595498564164544
+    second: animated_crosshair_cursor_pack_109
+  - first:
+      213: 2705763477658956371
+    second: animated_crosshair_cursor_pack_110
+  - first:
+      213: 8498135099585426625
+    second: animated_crosshair_cursor_pack_111
+  - first:
+      213: 576511810282621551
+    second: animated_crosshair_cursor_pack_112
+  - first:
+      213: -6540791838224656869
+    second: animated_crosshair_cursor_pack_113
+  - first:
+      213: -1016031476297686480
+    second: animated_crosshair_cursor_pack_114
+  - first:
+      213: 6529926083386358605
+    second: animated_crosshair_cursor_pack_115
+  - first:
+      213: -4846379614596464622
+    second: animated_crosshair_cursor_pack_116
+  - first:
+      213: 6210529756775003238
+    second: animated_crosshair_cursor_pack_117
+  - first:
+      213: -8107945539340366850
+    second: animated_crosshair_cursor_pack_118
+  - first:
+      213: -6213667675113196334
+    second: animated_crosshair_cursor_pack_119
+  - first:
+      213: 258137788607811714
+    second: animated_crosshair_cursor_pack_120
+  - first:
+      213: 7049845735862832938
+    second: animated_crosshair_cursor_pack_121
+  - first:
+      213: -6349514196002223046
+    second: animated_crosshair_cursor_pack_122
+  - first:
+      213: 5743011338424508765
+    second: animated_crosshair_cursor_pack_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662382cfcb016dfb0800000000000000
+      internalID: -4623489563578846618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b2cc8c2d6612b30800000000000000
+      internalID: 4260799777967188887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1f39dac29092c20800000000000000
+      internalID: 3182084699209331181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0487575a40d812a00800000000000000
+      internalID: 730019665706055744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34050076648432c40800000000000000
+      internalID: 5486308238280380483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceba579801c111f0800000000000000
+      internalID: -1075866593321632051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403d592c35bcaa2f0800000000000000
+      internalID: -960732009882856700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fad761cc91478b0800000000000000
+      internalID: -5155467309091016926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8bc98c5a9fb1960800000000000000
+      internalID: 7573921688784255173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48607790d2cec200800000000000000
+      internalID: 202313234427963470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256112cc53de71dd0800000000000000
+      internalID: -2515281051549362606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f2a1dd7c1762c0800000000000000
+      internalID: -4438547581036727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0587566493968c1b0800000000000000
+      internalID: -5636139238939068336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2533e3fb6c3990800000000000000
+      internalID: -7404924992070800260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a678db6330185c5f0800000000000000
+      internalID: -737041113201932438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97475f79921dba4d0800000000000000
+      internalID: -3122171940077996935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb0867ffe998120800000000000000
+      internalID: 2416637495102979825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2b204fb74a4b0a0800000000000000
+      internalID: -6866682679551413572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e8102a032eaa030800000000000000
+      internalID: 3506863958365670919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c85c8b7a0151d300800000000000000
+      internalID: 275090157710629063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a889ae5874b84fd0800000000000000
+      internalID: -2357435975851210585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557d02b344a9c9c90800000000000000
+      internalID: -7161679689585469611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf85fb4e49d76ee0800000000000000
+      internalID: -1267805839776444500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a0a7269b786a90800000000000000
+      internalID: -7320465309450590391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d17a2f1819ce30800000000000000
+      internalID: 4524173822805528850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205804bcb785d7ca0800000000000000
+      internalID: -6017556238382889726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ed9496070ff1a0800000000000000
+      internalID: -6773687589697362890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593f614ec7b82210800000000000000
+      internalID: 1308497788240083291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2049ca1b59cc5c0800000000000000
+      internalID: -4193812562651643193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6b516819060250800000000000000
+      internalID: 5910421561287600650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247202450407df9f0800000000000000
+      internalID: -433066567566088382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c361bf43a4a07e90800000000000000
+      internalID: -7029937997001694267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66ad39de010d8260800000000000000
+      internalID: 7101333350719006316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70edbd2f832205ef0800000000000000
+      internalID: -121559561950994937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ae6c0e646ae640800000000000000
+      internalID: 5110007151023006423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_crosshair_cursor_pack_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8516ab398a89820800000000000000
+      internalID: 2925273310417737913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c5775a777829eb49b7d96ab3bccd6ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animated_crosshair_cursor_pack_0: -4623489563578846618
+      animated_crosshair_cursor_pack_1: 4260799777967188887
+      animated_crosshair_cursor_pack_10: -2515281051549362606
+      animated_crosshair_cursor_pack_11: -4438547581036727625
+      animated_crosshair_cursor_pack_12: -5636139238939068336
+      animated_crosshair_cursor_pack_13: -7404924992070800260
+      animated_crosshair_cursor_pack_14: -737041113201932438
+      animated_crosshair_cursor_pack_15: -3122171940077996935
+      animated_crosshair_cursor_pack_16: 2416637495102979825
+      animated_crosshair_cursor_pack_17: -6866682679551413572
+      animated_crosshair_cursor_pack_18: 3506863958365670919
+      animated_crosshair_cursor_pack_19: 275090157710629063
+      animated_crosshair_cursor_pack_2: 3182084699209331181
+      animated_crosshair_cursor_pack_20: -2357435975851210585
+      animated_crosshair_cursor_pack_21: -7161679689585469611
+      animated_crosshair_cursor_pack_22: -1267805839776444500
+      animated_crosshair_cursor_pack_23: -7320465309450590391
+      animated_crosshair_cursor_pack_24: 4524173822805528850
+      animated_crosshair_cursor_pack_25: -6017556238382889726
+      animated_crosshair_cursor_pack_26: -6773687589697362890
+      animated_crosshair_cursor_pack_27: 1308497788240083291
+      animated_crosshair_cursor_pack_28: -4193812562651643193
+      animated_crosshair_cursor_pack_29: 5910421561287600650
+      animated_crosshair_cursor_pack_3: 730019665706055744
+      animated_crosshair_cursor_pack_30: -433066567566088382
+      animated_crosshair_cursor_pack_31: -7029937997001694267
+      animated_crosshair_cursor_pack_32: 7101333350719006316
+      animated_crosshair_cursor_pack_33: -121559561950994937
+      animated_crosshair_cursor_pack_34: 5110007151023006423
+      animated_crosshair_cursor_pack_35: 2925273310417737913
+      animated_crosshair_cursor_pack_4: 5486308238280380483
+      animated_crosshair_cursor_pack_5: -1075866593321632051
+      animated_crosshair_cursor_pack_6: -960732009882856700
+      animated_crosshair_cursor_pack_7: -5155467309091016926
+      animated_crosshair_cursor_pack_8: 7573921688784255173
+      animated_crosshair_cursor_pack_9: 202313234427963470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
