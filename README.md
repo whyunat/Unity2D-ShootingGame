@@ -1,4 +1,6 @@
 # Unity2D-ShootingGame
+<img width="706" height="379" alt="image" src="https://github.com/user-attachments/assets/a0446b3f-e5b2-4e17-b96a-98639e6094d5" />  
+
 ## 프로젝트 개요
 **개발 기간**: 2025.03.17~2025.03.31 (팀프로젝트, 5명)  
 **역할**: 개발 & 스테이지 배경 제작  
@@ -15,4 +17,4 @@
 - 시연 영상, 빌드파일: https://drive.google.com/drive/folders/1xbITCKjD7lCz4ZH4aozVSzGL7Vn3jEBk?usp=drive_link
 - 맡은 역할 상세: https://www.notion.so/Unity2D-2D-2a236ea1cc4781bdaff5dad94005dcc4?source=copy_link
 
-<img width="706" height="379" alt="image" src="https://github.com/user-attachments/assets/a0446b3f-e5b2-4e17-b96a-98639e6094d5" />
+
