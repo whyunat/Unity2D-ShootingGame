@@ -15,6 +15,6 @@
 ## 관련 자료
 - Notion: https://sore-kayak-590.notion.site/4-1b67bb90a1a38035a9a3d36940732e55
 - 시연 영상, 빌드파일: https://drive.google.com/drive/folders/1xbITCKjD7lCz4ZH4aozVSzGL7Vn3jEBk?usp=drive_link
-- 맡은 역할 상세: https://www.notion.so/Unity2D-2D-2a236ea1cc4781bdaff5dad94005dcc4?source=copy_link
+- 맡은 역할 상세: [/Unity2D-2D-25736ea1cc4780099abfc6f3172814e4?source=copy_link](https://www.notion.so/Unity2D-2D-25736ea1cc4780099abfc6f3172814e4)
 
 
